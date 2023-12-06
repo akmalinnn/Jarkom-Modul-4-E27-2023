@@ -18,6 +18,22 @@
 - Plotting Subnet
 ![Alt text](img/image1.png)
 
+## Tree & NID & Broadcast ID
+- Tree Pembagian IP Address
+![Alt text](img/image3.png)
+
+- Penentuan NID, Broadcast ID
+![Alt text](img/image4.png)
+
+## Topologi dan Konfigurasi CPT
+- Topologi
+![Alt text](img/image5.png)
+
+- Konfigurasi
+![Alt text](img/image6.png)
+
+## Testing
+test
 
 
 # CIDR
