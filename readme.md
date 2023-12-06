@@ -20,7 +20,7 @@
 
 ## Tree & NID & Broadcast ID
 - Tree Pembagian IP Address
-![Alt text](img/image3.png)
+![Alt text](img/image3.jpg)
 
 - Penentuan NID, Broadcast ID
 ![Alt text](img/image4.png)
