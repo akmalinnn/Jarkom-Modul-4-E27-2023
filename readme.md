@@ -30,7 +30,12 @@
 ![Alt text](img/image5.png)
 
 - Konfigurasi
-![Alt text](img/image6.png)
+![Alt text](img/image61.png)
+![Alt text](img/image62.png)
+![Alt text](img/image63.png)
+![Alt text](img/image64.png)
+![Alt text](img/image65.png)
+![Alt text](img/image66.png)
 
 ## Testing
 test
