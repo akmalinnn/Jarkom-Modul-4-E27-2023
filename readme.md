@@ -8,9 +8,18 @@
 
 # Topologi
 ![Alt text](img/image.png)
-![Alt text](img/image1.jpg)
+![Alt text](img/image1.png)
 
 # VLSM
+## Menentukan jumlah IP dan plotting Subnet
+- Menentukan jumlah IP yang dibutuhkan
+![Alt text](img/image2.png)
+
+- Plotting Subnet
+![Alt text](img/image1.png)
+
+
+
 # CIDR
 ## Penggabungan Subnet
 ![Alt text](img/CIDR.png)
