@@ -11,5 +11,14 @@
 ![Alt text](img/image1.png)
 
 # VLSM
+## Menentukan jumlah IP dan plotting Subnet
+- Menentukan jumlah IP yang dibutuhkan
+![Alt text](img/image2.png)
+
+- Plotting Subnet
+![Alt text](img/image1.png)
+
+
+
 # CIDR
 # Kesulitan dan masalah
