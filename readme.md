@@ -1,4 +1,4 @@
-# Praktikum Modul 3 Jaringan Komputer
+# Praktikum Modul 4 Jaringan Komputer
 
 # Anggota Kelompok E27 :
 | No.  | Nama Anggota       | NRP          |
@@ -8,5 +8,8 @@
 
 # Topologi
 ![Alt text](img/image.png)
+![Alt text](img/image1.jpg)
 
+# VLSM
+# CIDR
 # Kesulitan dan masalah
