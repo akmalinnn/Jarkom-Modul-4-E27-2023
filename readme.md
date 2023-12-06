@@ -8,7 +8,7 @@
 
 # Topologi
 ![Alt text](img/image.png)
-![Alt text](img/image1.jpg)
+![Alt text](img/image1.png)
 
 # VLSM
 # CIDR
